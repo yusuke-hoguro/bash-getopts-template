@@ -1,0 +1,2 @@
+# CommandOptionBaseShell
+シェルスクリプトのコマンド/オプション起動のベース
